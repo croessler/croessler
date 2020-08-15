@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+So this is my profile readme, huh?
+
+Let's see:
+
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on interesting Open Source Projects (using Python)
+
+- 😄 Here is a joke: !False
+
+
 <!--
 **croessler/croessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
