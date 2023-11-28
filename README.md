@@ -4,9 +4,10 @@ So this is my profile readme, huh?
 
 Let's see:
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on interesting Open Source Projects (using Python)
-
+- 🌱 I’m currently (re)learning various stuff about software development
+- 📘 I’m using Github mostly for a "document" about my learning
+- 👨‍🔬 I’m a Physicist but...
+- 👨‍💼 ...for a living I work as Product Owner
 - 😄 Here is a joke: !False
 
 
