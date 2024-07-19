@@ -5,7 +5,9 @@ So this is my profile readme, huh?
 Let's see:
 
 - 🌱 I’m currently (re)learning various stuff about software development
-- 📘 I’m using Github mostly for a "document" about my learning
+- 📘 I’m using Github mostly for
+  - [100 Days of Code (Python)](https://www.udemy.com/course/100-days-of-code/) 
+  - a "document" about my learning
 - 👨‍🔬 I’m a Physicist but...
 - 👨‍💼 ...for a living I work as Product Owner
 - 😄 Here is a joke: !False
